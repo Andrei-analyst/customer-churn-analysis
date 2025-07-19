@@ -12,6 +12,5 @@ It visualizes average shipment delay, delivery time, total lead time, and weekly
 [Visit my Upwork](https://www.upwork.com/freelancers/~0152af1106a52493d6)
 
 # Preview the notebook:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/logistics_metrics.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/github/Andrei-analyst/logistics-analysis/blob/main/logistics_metrics.ipynb)
 
